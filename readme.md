@@ -6,5 +6,4 @@
 - feature-A
 - rumagishiヽʕ̡̢̡ ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢/hogehoge
 - ཀʕ̡̢̡ʘ̲̅ʔ̢̡̢ཀ
-- MAKUDARAAAAAAAAAAAAA
 - mAkUDaRaaaaaaaaaaaaa
