@@ -2,3 +2,4 @@
 
 - fix-B
 - feature-A
+- rumagishi-hogehoge
